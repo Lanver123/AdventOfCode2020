@@ -1,5 +1,5 @@
 main:
-	g++ solution${dia}_${version}.cpp -o solution${dia}_${version}
+	g++ -g solution${dia}_${version}.cpp -o solution${dia}_${version}
 
 clean:
 	rm -rf solution?_?
