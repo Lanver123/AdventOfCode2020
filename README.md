@@ -1,6 +1,7 @@
 # AdventOfCode2020
 
 Every solution has been implemented using C++
+
 Solutions and main features of implementation
 
 - [X] Day 1: unordered_map for desired combinations
