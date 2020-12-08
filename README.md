@@ -11,7 +11,7 @@ Solutions and main features of implementation
 - [X] Day 5 bitwise operations over unsigned int datatype
 - [X] Day 6 use of unordered set for: {NOT key,value, NOT duplicates} desired data structure 
 - [X] Day 7 REGEX parsing | recursive dynamic programming approach with memorization of intermediate sub-problems
-- [ ] Day 8
+- [X] Day 8 mainly OOP 
 - [ ] Day 9
 - [ ] Day 10
 - [ ] Day 11
