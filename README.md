@@ -1,5 +1,6 @@
 # AdventOfCode2020
 
+Every solution has been implemented using C++
 Solutions and main features of implementation
 
 - [X] Day 1: unordered_map for desired combinations
@@ -8,7 +9,7 @@ Solutions and main features of implementation
 - [X] Day 4 OOP to define custom functions for class and use of vector<> and pair<> features
 - [X] Day 5 bitwise operations over unsigned int datatype
 - [X] Day 6 use of unordered set for: {NOT key,value, NOT duplicates} desired data structure 
-- [X] Day 7 recursive dynamic programming approach with memorization of intermediate sub-problems
+- [X] Day 7 REGEX parsing | recursive dynamic programming approach with memorization of intermediate sub-problems
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
